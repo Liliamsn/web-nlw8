@@ -41,7 +41,7 @@ As seguintes ferramentas foram utilizadas no projeto:
     #Entrar no diretório 
      cd web-nlw8
 
-    #Instalar o live-server globalmente
+    #Instalar o npm
      npm install 
 
     #Inicializar o projeto
